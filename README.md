@@ -97,11 +97,13 @@ This project integrates **SQL Server**, **Power BI**, and **Machine Learning (Ra
 
 ## Repository Structure
 - **SQL/**
-  ETL_Scripts.sql
+  ETL_Scripts.sql &
   Views.sql
 - **PowerBI/**
-  Dashboards.pbix
-  Dashboards.jpg
+  Dashboards.pbix,
+  Dashboards.png &
+  Dashboards2.png
 - **Python/**
   RandomForestModel.ipynb
 - **README.md**
+- **Colour Palettes**
