@@ -26,6 +26,7 @@ This project integrates **SQL Server**, **Power BI**, and **Machine Learning (Ra
   - **Churn Summary Page**: Total Customers, New Joiners, Total Churn, and Churn Rate, broken down by demographics, contract types, and services.
   - **Churn Prediction Page**: Profiles of predicted churners and their key characteristics.
 - Visuals designed using **Adobe Color Palette** for consistency and accessibility.
+- Background desgned in powerpoint
 
 ### 4. Machine Learning Model
 - **Random Forest Classifier:**
@@ -107,3 +108,5 @@ This project integrates **SQL Server**, **Power BI**, and **Machine Learning (Ra
   RandomForestModel.ipynb
 - **README.md**
 - **Colour Palettes**
+- **Datasets.xlsx**
+- **Background Creation -ppt & png files**
